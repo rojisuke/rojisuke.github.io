@@ -1,0 +1,23 @@
+<html>
+
+	<head>
+
+	<style>
+
+	body {
+		background-color: 'blue';
+	}
+
+	body {
+		color: 'white';
+	}
+
+	</head>
+
+	<body>
+
+		<h1>Someone left you a message.</h1>
+
+	</body>
+
+</html>
